@@ -12,3 +12,9 @@
 #### Примеры вызова операции выбора представлены в папке `/example`:
 - [мультивыбор значений](examples/example_multi.os)
 - [выбор одиночного значения](examples/example_single.os)
+
+## Установка
+- через пакетный менеджер opm командой  
+`opm install cli-selector`
+- вручную скачать файл cli-selector.ospx из раздела [release](https://github.com/oscript-library/cli-selector/releases)  
+и установить его командой `opm install -f <путь к файлу>` 
