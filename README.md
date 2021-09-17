@@ -10,5 +10,5 @@
 ---
 
 #### Примеры вызова операции выбора представлены в папке `/example`:
-- [мультивыбор значений](example/example_multi.os)
-- [выбор одиночного значений](example/example_single.os)
+- [мультивыбор значений](examples/example_multi.os)
+- [выбор одиночного значений](examples/example_single.os)
